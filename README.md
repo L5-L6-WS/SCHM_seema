@@ -1,7 +1,22 @@
-🏡 The *Home* page of the Hostel Management System welcomes you! 👋 It highlights key features like 💰 Hostel Fees, 🛌 Comfortable Rooms, and 🍎 Nutritious Food. You can also explore the 🍽 Canteen, 🧺 Laundry, ⚽ Sports Arena, 💃 Dance Studio, and 💪 Gym. It's designed for your comfort and well-being.
+🏡 Home: Welcome to our hostel! Your comfort and well-being are our top priorities. Explore our facilities like comfortable rooms 🛋️, nutritious food 🍔, the canteen 🍕, laundry services 🧺, the sports arena ⚽, the dance studio 💃, and the gym 💪. Learn about hostel fees 💰 and more!
 
-🧾 The *Hostel Fee* page details the annual fee structure. It lists costs for ➡ Admission, 🔒 Security Deposit, and different room occupancies (single, double, triple). 🍜 Optional Mess charges and 👕 Laundry & 🏋 Gym access fees are also mentioned. Important notes about payment and revisions are included.
+💰 Hostel Fee: Here you'll find a detailed breakdown of our hostel fee structure for different room types and facilities. We've included information on admission fees, security deposits, and annual charges for single, double, and triple occupancy rooms. You can also find details about optional mess charges 🍽️, laundry service fees 👕, and gym access costs. Important notes regarding payment deadlines and policies are also provided.
 
-🚪 The *Rooms* page showcases the different types of accommodation available: Single 👤, Double 👥, and Triple 🧑‍🤝‍🧑 occupancy. Each room type's features, such as private/shared bathrooms 🚿, study desks ✍, wardrobes 👚, and Wi-Fi 📶, are listed. General amenities like power backup 💡 and cleaning services ✨ are also mentioned.
+🎉 Events & Activities: Discover the vibrant social life at our hostel! We organize various events and activities to build community and fun. Check out information on the Annual Cultural Night 🎤🎭 (October 26, 2025), the Inter-Hostel Sports Fest 🏆 (November 10-12, 2025), and a look back at the Diwali Celebration 🪔 from last year (November 1, 2024). Join our community and follow us on social media! 📱
 
-🍎 The *Foods* page focuses on the mess services, emphasizing nutritious and delicious meals 😋. It outlines meal times ⏰ and mentions vegetarian/non-vegetarian options. A sample weekly menu includes dishes like Idli 🍚, Roti 🍞, Dal 🥣, Chicken Curry 🍗, and Paneer 🧀. Hygiene is a priority! 👍
+📜 Rules & Regulations: To ensure a harmonious and safe living environment, all residents must follow these rules. They cover general conduct like quiet hours 🤫, visitor policies 🚶‍♀️, cleanliness 🧹, and what's not allowed (smoking 🚭, alcohol 🍺). You'll also find rules for the mess and canteen 🍜. Please be aware that not following these rules may lead to disciplinary action. ⚠️
+
+
+
+
+
+
+
+
+
+
+
+Deep Research
+
+Canvas
+
