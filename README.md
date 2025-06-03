@@ -4,19 +4,5 @@
 
 🎉 Events & Activities: Discover the vibrant social life at our hostel! We organize various events and activities to build community and fun. Check out information on the Annual Cultural Night 🎤🎭 (October 26, 2025), the Inter-Hostel Sports Fest 🏆 (November 10-12, 2025), and a look back at the Diwali Celebration 🪔 from last year (November 1, 2024). Join our community and follow us on social media! 📱
 
-📜 Rules & Regulations: To ensure a harmonious and safe living environment, all residents must follow these rules. They cover general conduct like quiet hours 🤫, visitor policies 🚶‍♀️, cleanliness 🧹, and what's not allowed (smoking 🚭, alcohol 🍺). You'll also find rules for the mess and canteen 🍜. Please be aware that not following these rules may lead to disciplinary action. ⚠️
-
-
-
-
-
-
-
-
-
-
-
-Deep Research
-
-Canvas
+📜 Rules & Regulations: To ensure a harmonious and safe living environment, all residents must follow these rules. They cover general conduct like quiet hours 🤫, visitor policies 🚶‍♀️, cleanliness 🧹, and what's not allowed (smoking 🚭, alcohol 🍺). You'll also find rules for the mess and canteen 🍜. Please be aware that not following these rules may lead to disciplinary action. 
 
